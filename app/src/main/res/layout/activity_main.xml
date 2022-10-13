@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/txtUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/userid"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/btnDescargar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Downlad" />
+
+    <EditText
+        android:id="@+id/CPY_CODE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/CPY_CODE"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/NODE_TYPE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/NODE_TYPE"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/NODE_CODE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/NODE_CODE"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/VAE_ID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/VAE_ID"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/SAM_ID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SAM_ID"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/SAM_TYPE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SAM_TYPE"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/SAM_UID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SAM_UID"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/LINE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LINE"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/STATION"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/STATION"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/TRAY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TRAY"
+        android:autofillHints=""/>
+
+    <EditText
+        android:id="@+id/ECO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ECO"
+        android:autofillHints=""/>
+
+
+</LinearLayout>

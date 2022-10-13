@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Consumir WS CDP</string>
+    <string name="Downlad">Downlad</string>
+    <string name="body">Body</string>
+    <string name="userid">UserId</string>
+    <string name="title">Title</string>
+    <string name="CPY_CODE">CPY_CODE</string>
+    <string name="NODE_TYPE">NODE_TYPE</string>
+    <string name="NODE_CODE">NODE_CODE</string>
+    <string name="VAE_ID">VAE_ID</string>
+    <string name="SAM_ID">SAM_ID</string>
+    <string name="SAM_TYPE">SAM_TYPE</string>
+    <string name="SAM_UID">SAM_UID</string>
+    <string name="LINE">LINE</string>
+    <string name="STATION">Title</string>
+    <string name="TRAY">TRAY</string>
+    <string name="ECO">ECO</string>
+</resources>
